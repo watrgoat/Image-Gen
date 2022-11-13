@@ -15,7 +15,9 @@ https://discuss.pytorch.org/t/runtimeerror-stack-expects-each-tensor-to-be-equal
 https://stackoverflow.com/questions/62795645/what-does-it-mean-for-the-shape-of-an-image-tensor-to-be-64-64-does-that-mea
 
 # cuda
-# run vsc as administrator
+run vsc as administrator
 download cuda version 1.16: https://developer.nvidia.com/cuda-11-6-0-download-archive?target_os=Windows&target_arch=x86_64
 pip uninstall torch
 pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
+
+pretrained models: https://s3.console.aws.amazon.com/s3/buckets/olivers-image-gen-bucket
