@@ -21,3 +21,5 @@ pip uninstall torch
 pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
 
 pretrained models: https://s3.console.aws.amazon.com/s3/buckets/olivers-image-gen-bucket
+
+https://github.com/universome/alis #landscape images
