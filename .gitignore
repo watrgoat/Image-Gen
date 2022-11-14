@@ -14,4 +14,4 @@ fakeland2paint.pth
 fakepaint2land.pth
 land2paint.pth
 paint2land.pth
-dataset
+dataset/*
