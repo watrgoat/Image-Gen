@@ -20,6 +20,6 @@ download cuda version 1.16: https://developer.nvidia.com/cuda-11-6-0-download-ar
 pip uninstall torch
 pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
 
-pretrained models: https://s3.console.aws.amazon.com/s3/buckets/olivers-image-gen-bucket
+pretrained models and datasets used: https://s3.console.aws.amazon.com/s3/buckets/olivers-image-gen-bucket
 
 https://github.com/universome/alis #landscape images
